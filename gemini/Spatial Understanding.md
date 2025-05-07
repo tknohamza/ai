@@ -1,4 +1,4 @@
-#Spatial Understanding
+# Spatial Understanding
 
 ### <a name="objectifs"></a> objectifs
 
