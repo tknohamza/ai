@@ -7,7 +7,7 @@
 
 ### <a name="Objective"></a> Objective
 
-This Artificial Intelligence project aims to **enhance existing models** to deliver the **highest performance** across a wide range of applications. It utilizes **Prompt Engineering** professionally to guide models with precision, ensuring:
+> This Artificial Intelligence project aims to **enhance existing models** to deliver the **highest performance** across a wide range of applications. It utilizes **Prompt Engineering** professionally to guide models with precision, ensuring:
 
 - High-quality outputs  
 - Minimized errors  
