@@ -85,7 +85,7 @@ Bias in Data – AI systems can reflect unintended biases based on their trainin
 ### <a name="Copyright©2025"></a> Copyright © 2025
 
 
-> Thank you for contacting us here. If you have any comments, feel free to reach out to us at:
+Thank you for contacting us here. If you have any comments, feel free to reach out to us at:
 tknohamzacontact@gmail.com
 Don't forget to follow us on :
 <a href="https://facebook.com/tknohamza">Facebook</a>, <a href="https://instagram.com/r/tknohamza">Instagram</a>, <a href="https://twitter.com/tknohamza">Twitter</a>, <a href="https://t.me/tknohamzachannel">Telegram</a>
