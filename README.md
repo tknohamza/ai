@@ -7,9 +7,7 @@
 
 ### <a name="Objective"></a> Objective
 
-> This Artificial Intelligence
-
-project aims to **enhance existing models** to deliver the **highest performance** across a wide range of applications. It utilizes **Prompt Engineering** professionally to guide models with precision, ensuring:
+> This Artificial Intelligence project aims to **enhance existing models** to deliver the **highest performance** across a wide range of applications. It utilizes **Prompt Engineering** professionally to guide models with precision, ensuring:
 
 - High-quality outputs  
 - Minimized errors  
@@ -23,7 +21,9 @@ Through this **integrated approach**, the project ensures **robust and flexible 
 
 ### <a name="Definition"></a> Definition
 
-> Artificial Intelligence (AI) is a branch of computer science focused on developing systems and software that can simulate human intelligence. AI relies on algorithms, machine learning, and deep neural networks to process data, make decisions, and perform tasks independently or semi-independently.
+> Artificial Intelligence (AI)
+
+is a branch of computer science focused on developing systems and software that can simulate human intelligence. AI relies on algorithms, machine learning, and deep neural networks to process data, make decisions, and perform tasks independently or semi-independently.
 
 
 
