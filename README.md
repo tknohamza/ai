@@ -7,7 +7,9 @@
 
 ### <a name="Objective"></a> Objective
 
-> This Artificial Intelligence project aims to **enhance existing models** to deliver the **highest performance** across a wide range of applications. It utilizes **Prompt Engineering** professionally to guide models with precision, ensuring:
+> This Artificial Intelligence
+
+project aims to **enhance existing models** to deliver the **highest performance** across a wide range of applications. It utilizes **Prompt Engineering** professionally to guide models with precision, ensuring:
 
 - High-quality outputs  
 - Minimized errors  
@@ -23,6 +25,8 @@ Through this **integrated approach**, the project ensures **robust and flexible 
 
 > Artificial Intelligence (AI) is a branch of computer science focused on developing systems and software that can simulate human intelligence. AI relies on algorithms, machine learning, and deep neural networks to process data, make decisions, and perform tasks independently or semi-independently.
 
+
+
 ### <a name="How AI Works"></a> How AI Works
 
 > AI operates through several key steps:
@@ -37,6 +41,8 @@ Through this **integrated approach**, the project ensures **robust and flexible 
 
 
 4. Decision Making – Generates responses or decisions based on analysis and prior knowledge.
+
+
 
 ### <a name="Types of AI"></a> Types of AI
 
@@ -84,6 +90,7 @@ Through this **integrated approach**, the project ensures **robust and flexible 
 Job Displacement – Some jobs may become fully automated.
 
 Bias in Data – AI systems can reflect unintended biases based on their training data.
+
 
 
 ### <a name="Conclusion"></a> Conclusion
