@@ -3,7 +3,6 @@
 ChatGPT is an advanced artificial intelligence model developed by OpenAI, based on the Generative Pre-trained Transformer (GPT) architecture. It is designed to understand and generate human-like natural language, enabling it to hold conversations, answer questions, write texts, and assist in many different fields.
 
 
----
 
 # How Does ChatGPT Work? ⚙️
 
@@ -17,7 +16,6 @@ This allows ChatGPT to generate coherent, contextually relevant responses and ev
 
 
 
----
 
 # Applications of ChatGPT 📚
 
@@ -33,7 +31,6 @@ Business Use: Creating reports, summarizing documents, and analyzing textual dat
 
 
 
----
 
 # Key Features of ChatGPT ⭐
 
@@ -47,7 +44,6 @@ Continuous improvement through updates and retraining.
 
 
 
----
 
 # Challenges and Limitations ⚠️
 
@@ -59,7 +55,6 @@ Requires human supervision, especially in sensitive or complex scenarios.
 
 
 
----
 
 # Conclusion 🎯
 
